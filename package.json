@@ -1,0 +1,14 @@
+{  
+  "name": "NoAdMySpass",  
+  "version": "0.0.12",  
+  "author" : "Plagiator",  
+  "private" : true,  
+  "devDependencies": {  
+          "grunt" :                       "~0.4.*",  
+          "grunt-contrib-jshint":         "*",  
+          "grunt-contrib-uglify":         "*",
+		  "grunt-contrib-copy":           "*",
+		  "grunt-contrib-compress":           "*",
+          "matchdep":                     "*"  
+  }  
+}
