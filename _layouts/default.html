@@ -1,0 +1,19 @@
+{% include head.html %}
+    <body>
+        
+        {% include chrome_frame.html %}
+        {% include styleswitcher.html %}
+        <div class="container">
+            {{ content }}
+            <hr>
+            <footer id="footer" class="row content-divider">
+                <p>&copy; {{ site.time | date: "%Y" }} {{site.copyright}}</p>
+            </footer>
+
+        </div> <!-- /container -->
+
+        {% include scripts.html %}
+        {% include analytics.html %}
+    </body>
+</html>
+
