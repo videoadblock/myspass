@@ -1,4 +1,6 @@
-Myspass Unblocker
+Myspass Adblocker
 =======================
 
-Das Myspass Unblocker Plugin, initialisiert den werbefreien Player auf myspass.de
+Das Myspass Adblocker Plugin, initialisiert den werbefreien Player auf myspass.de
+
+Zum download: https://videoadblock.github.io/myspass/
