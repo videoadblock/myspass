@@ -28,7 +28,7 @@ $(document).ready(function() {
 		});
 		chrome.webstore.install(undefined, function(){
 			alert("Wenn du Zeit und Lust hast und meine Mühen belohnen willst, die Erweiterung bitte bewerten. Danke!");
-			window.location.href = "https://chrome.google.com/webstore/detail/myspass-adblocker/ljjdpiilfcgggfhpgboiebimccnbebcj/reviews";
+			window.location.href = "https://chrome.google.com/webstore/detail/myspass-adblocker/akepdncjgopkjglfccjkjpikgljgodii";
 		});
 		return false;
 	});
